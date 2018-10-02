@@ -1,0 +1,27 @@
+{
+  "name": "vidly",
+  "version": "1.0.0",
+  "description": "vidly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theVishalNair/vidly.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theVishalNair/vidly/issues"
+  },
+  "homepage": "https://github.com/theVishalNair/vidly#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "joi": "^13.7.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  }
+}
